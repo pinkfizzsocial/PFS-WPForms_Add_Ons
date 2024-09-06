@@ -1,8 +1,8 @@
 <?php
 /*
-* Plugin Name: PFS-WPForms_AddOns
-* Description: Provide adding for WPForms - inc User Agent Smart Tag
-* Version: 1.0.1
+* Plugin Name: PFS-WPForms AddOns
+* Description: Provide AddOns for WPForms - inc User Agent Smart Tag
+* Version: 1.0.2
 * Author: Pink Fizz Social
 * Author URI: http://pinkfizz.social
 * License: GPL2
